@@ -17,3 +17,9 @@
 #### Kita masih akan mengulangi sesi paling dasar dalam membuat program menghitung luas. Kita harus tahu dulu rumus yang akan digunakan. Luas lingkaran = phi * r * r . Simbol (*) artinya perkalian
 
 ![gambar](gambar3.png)
+
+## Latihan3
+
+### buat kode program menggunakan string formating untuk menghasilkan output seperti pada gambar di bawah
+
+![gambar](gambar.4.png)
